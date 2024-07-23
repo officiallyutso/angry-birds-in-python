@@ -1,5 +1,5 @@
 Angry Birds in Python  
-![Screenshot (806)](https://github.com/officiallyutso/angry-birds-in-python/assets/62977856/d0d5213b-4ffc-4f4a-9ccb-baba9b2c522c)
+![Screenshot (806)](https://github.com/officiallyutso/angry-birds-in-python/assets/62977856/d0d5213b-4ffc-4f4a-9ccb-baba9b2c522c) 
 
 Copyright (c) 2020 STRATO INC
 
